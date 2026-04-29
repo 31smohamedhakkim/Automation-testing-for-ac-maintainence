@@ -1,0 +1,28 @@
+2026-04-29 19:57:32 INFO  TC_002_Login_Test:18 - ------------- starting tc_001_account registration-------------------
+2026-04-29 19:57:32 INFO  TC_002_Login_Test:20 - clicking user btn
+2026-04-29 19:57:34 INFO  TC_002_Login_Test:25 - Entering details
+2026-04-29 19:57:35 INFO  TC_002_Login_Test:28 - clicking sign in btn
+2026-04-29 19:57:35 INFO  TC_002_Login_Test:32 - confirming..
+2026-04-29 20:00:17 INFO  TC_002_Login_Test:18 - ------------- starting tc_001_account registration-------------------
+2026-04-29 20:00:17 INFO  TC_002_Login_Test:20 - clicking user btn
+2026-04-29 20:00:20 INFO  TC_002_Login_Test:25 - Entering details
+2026-04-29 20:00:20 INFO  TC_002_Login_Test:28 - clicking sign in btn
+2026-04-29 20:00:20 INFO  TC_002_Login_Test:32 - confirming..
+2026-04-29 20:02:20 INFO  TC_002_Login_Test:18 - ------------- starting tc_001_account registration-------------------
+2026-04-29 20:02:20 INFO  TC_002_Login_Test:20 - clicking user btn
+2026-04-29 20:02:23 INFO  TC_002_Login_Test:25 - Entering details
+2026-04-29 20:02:23 INFO  TC_002_Login_Test:28 - clicking sign in btn
+2026-04-29 20:02:23 INFO  TC_002_Login_Test:32 - confirming..
+2026-04-29 20:03:27 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\acer\Downloads\Automation_Testing_Project\Ac_Maintainence\master.xml
+
+2026-04-29 20:03:30 INFO  TC_002_Login_Test:18 - ------------- starting tc_001_account registration-------------------
+2026-04-29 20:03:30 INFO  TC_002_Login_Test:20 - clicking user btn
+2026-04-29 20:03:32 INFO  TC_002_Login_Test:25 - Entering details
+2026-04-29 20:03:32 INFO  TC_002_Login_Test:28 - clicking sign in btn
+2026-04-29 20:03:33 INFO  TC_002_Login_Test:32 - confirming..
+2026-04-29 20:10:08 INFO  TC_002_Login_Test:18 - ------------- starting tc_001_account registration-------------------
+2026-04-29 20:10:08 INFO  TC_002_Login_Test:20 - clicking user btn
+2026-04-29 20:10:11 INFO  TC_002_Login_Test:25 - Entering details
+2026-04-29 20:10:11 INFO  TC_002_Login_Test:28 - clicking sign in btn
+2026-04-29 20:10:12 INFO  TC_002_Login_Test:32 - confirming..
